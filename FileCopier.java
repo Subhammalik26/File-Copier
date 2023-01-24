@@ -77,7 +77,7 @@ public class FileCopier
 			}
                         else
                         {
-				System.out.println("Dosen't Exists.");
+				System.out.println("File Not Found.");
 			}
 			
 			readFile.close();
